@@ -1,7 +1,7 @@
 # Hey there, I'm Kaique!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaique-olvr&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Kaique-olvr&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 # About Me
