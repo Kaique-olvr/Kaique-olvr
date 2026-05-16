@@ -1,25 +1,44 @@
-# Hey there, I'm Kaique!
+# Hey there, I'm Kaique! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaique-olvr&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kaique-olvr&color=9cf&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
-# About Me
-- 🎓 **Computer Science** student.
-- 🛠️ Focusing on **Backend Development** and **Cybersecurity** enthusiast.
-- 🏫 **ESL Teacher** with a focus on clear and effective communication.
-- ✍️ Passionate about technical documentation and organized workflows.
+# 🧑‍💻 About Me
+- 🎓 **Computer Science Student** engaged in backend systems and software fundamentals.
+- 🛡️ Focus area: **Backend Development** & **Cybersecurity** enthusiast (DevSecOps workflow).
+- 🏫 **ESL Teacher** applying language methodologies and technical communication.
+- ✍️ Passionate about robust documentation, clean code, and organized architectures.
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![CyberSecurity](https://img.shields.io/badge/CyberSecurity-000000?style=for-the-badge&logo=pre-commit&logoColor=white)
+---
 
-# 📊 Top Languages
+# 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-olvr&layout=compact&theme=merko" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CyberSecurity-000000?style=for-the-badge&logo=roots&logoColor=white" alt="CyberSecurity" />
+</p>
+
+---
+
+# 🚀 Current Projects & Academic Cases
+
+### 🕹️ Game Prototype 
+- **Collaboration:** Built alongside the **IndexError** development group, implementing structural movement physics and active camera boundaries.
+
+### 🏢 Tupã Studios — Infrastructure & Security Case Study
+- **Description:** An academic and practical architectural blueprint focused on secure IT infrastructure planning for game development studios. 
+- **Highlights:** Network segmentation, asset protection, and access control policies tailored for high-performance development environments.
+
+---
+
+# 📊 My GitHub Ecosystem
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaique-olvr&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-olvr&layout=compact&theme=merko&hide_repo=Kaique-olvr" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -27,7 +46,3 @@
 ### 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-oliveira-costa-12ba17346)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ka.oliveco@gmail.com)
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Kaique-olvr&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</p>
