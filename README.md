@@ -1,7 +1,7 @@
-# Hey there, I'm Kaique! 👋
+# Hey there, I'm Kaique! 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kaique-olvr&color=9cf&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kaique-olvr&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
 # 🧑‍💻 About Me
@@ -37,8 +37,11 @@
 # 📊 My GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaique-olvr&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-olvr&layout=compact&theme=merko&hide_repo=Kaique-olvr" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaique-olvr&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-olvr&layout=compact&theme=merko&hide_repo=Kaique-olvr" alt="Top Languages" />
 </p>
 
 ---
