@@ -1,4 +1,13 @@
-# Hey there, I'm Kaique! <align align="right">![Views](https://komarev.com/ghpvc/?username=Kaique-olvr&color=blue&style=flat-square&label=PROFILE+VIEWS)</align>
+<table width="100%" border="0">
+  <tr>
+    <td align="left">
+      <h1>Hey there, I'm Kaique! 👋</h1>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=Kaique-olvr&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+    </td>
+  </tr>
+</table>
 
 # 🧑‍💻 About Me
 - 🎓 **Computer Science Student** engaged in backend systems and software fundamentals.
